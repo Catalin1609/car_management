@@ -1,0 +1,10 @@
+{
+  "brand": "Dacia",
+  "model": "Duster",
+  "color": "Black",
+  "gearBox": "Automation",
+  "fuel": "Gas",
+  "power": 150,
+  "registrationNumber": "SRO1234",
+  "pricePerDay": 80.5
+}
